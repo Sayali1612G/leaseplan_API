@@ -6,7 +6,7 @@ This tutorial show you how to get started with REST-API testing using Serenity a
 
 Git:
 
-    git clone https://github.com/Sayali1612G/leaseplan.git
+    git clone https://github.com/Sayali1612G/leaseplan_API.git
     cd Leaseplan
 
 ## The starter project

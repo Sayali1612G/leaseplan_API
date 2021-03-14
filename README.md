@@ -7,7 +7,7 @@ This tutorial show you how to get started with REST-API testing using Serenity a
 Git:
 
     git clone https://github.com/Sayali1612G/leaseplan_API.git
-    cd Leaseplan
+    cd leaseplan_API
 
 ## The starter project
 The best place to start with Serenity and Cucumber is to clone or download the starter project on Github.

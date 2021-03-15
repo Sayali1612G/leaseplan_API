@@ -8,7 +8,7 @@ Git:
 
     git clone https://github.com/Sayali1612G/leaseplan_API.git
     cd leaseplan_API
-
+    After execution Serenity html results will get generated at - target/Site/Serenity
 ## The starter project
 The best place to start with Serenity and Cucumber is to clone or download the starter project on Github.
 This project gives you a basic project setup, along with some sample tests and supporting classes. 
